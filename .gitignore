@@ -71,6 +71,11 @@ Thumbs.db
 *.dll
 *.exe
 
-#ExampleProject
-#--------------
+# ExampleProject
+# --------------
 example/*
+
+# KDE Develop tmp
+# ---------------
+.kdev4/
+IgniteUI.kdev4
