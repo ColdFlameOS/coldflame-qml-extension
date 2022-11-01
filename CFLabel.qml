@@ -41,5 +41,6 @@ Item{
 
     Label{
         id:m_label
+        anchors.centerIn: parent
     }
 }

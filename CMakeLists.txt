@@ -12,7 +12,7 @@ qt_add_library(IgniteUI)
 qt_add_qml_module(IgniteUI
     URI IgniteUI
     VERSION 1.0
-    QML_FILES CFLabel.qml CFWindow.qml CFButton.qml
+    QML_FILES CFLabel.qml CFWindow.qml CFButton.qml CFComboBox.qml CFSlider.qml CFCheckBox.qml CFRadioButton.qml CFHyperLinkLabel.qml CFIconLabel.qml CFIconButton.qml CFRightClickMenu.qml CFSwitch.qml
     SOURCES igniteui.cpp igniteui.h
 )
 
