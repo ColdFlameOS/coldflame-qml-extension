@@ -77,5 +77,4 @@ example/*
 
 # KDE Develop tmp
 # ---------------
-.kdev4/
-IgniteUI.kdev4
+*.kdev4
